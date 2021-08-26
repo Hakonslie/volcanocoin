@@ -1,0 +1,2 @@
+# volcanocoin
+First solidity project
